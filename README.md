@@ -4,9 +4,7 @@ Profiling V2VNet and when2com's onboard compute cost (model size, latency, memor
 
 ## Dataset and checkpoints
 
-Not tracked in this repo (too large for GitHub). Hosted here instead:
-
-https://drive.google.com/drive/folders/1WRfCDKGIGVC9v0oDD0cEbfglwefk-NWe?usp=sharing
+Not tracked in this repo (too large for GitHub). Hosted data in my google drive.
 
 ## Models compared
 
