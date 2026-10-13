@@ -1,0 +1,11 @@
+
+# Large data/model files - not tracked in git
+*.pth
+*.zip
+data/
+checkpoints/
+v2x_sim_mini/
+coperception/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
